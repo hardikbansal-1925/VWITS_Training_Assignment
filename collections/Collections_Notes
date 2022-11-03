@@ -1,0 +1,10 @@
+Colections Interface
+
+List Interface -> ArrayList, LinkedList
+Set Interface -> HashSet(Set + Hashing/Grouping)
+Set Interface -> SortedSet interface -> TreeSet(class)
+Queue Interface -> LInkedList(FIFO) class -> Priority Queue
+---***---******
+
+Map Interface -> HashMap
+Map Interface - > SortedMap -> TreeMap (class)
